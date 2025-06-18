@@ -1,4 +1,4 @@
-## OLA!! EU VOU O JOAO VITOR
+##😊 OLA!! EU VOU O JOAO VITOR😊
 <h1 align="center" style="color: #cccccc;">Bem-vindo ao meu GitHub 👾</h1>
 
 <p align="center">
