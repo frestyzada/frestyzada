@@ -41,6 +41,6 @@
 ---
 
 <p align="center" style="color: #777777;">
-  ⚫ Feito com <strong style="color: #b0b0b0;">carinho</strong> por Pitico ⚫
+  ⚫  <strong style="color: #b0b0b0;">“É preciso muita coragem para enfrentar os inimigos, mas mais ainda para enfrentar os amigos... e os bugs!”</strong> ⚫
 </p>
 
